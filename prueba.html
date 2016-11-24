@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Autores</title>
+<link href="Config/styles.css" rel="stylesheet">
+<script src="js/jquery-1.11.4.min.js"></script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push(
+	{
+		google_ad_client : "ca-pub-3577918067888586",
+		enable_page_level_ads : true
+	});
+</script>
+
+</head>
+<body onload="enviarCodigo('header');enviarCodigo('autores');enviarCodigo('footer');">
+
+	<header id="head"> </header>
+
+	<h3>Autores</h3>
+	<p id="texto"></p>
+
+<Br /><Br /><Br /><Br />
+
+	<footer>
+		<div id="footer">
+			<div id="foot"></div>
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- AnunciosCapitulosMytthos -->
+			<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-3577918067888586" data-ad-slot="1789098554" data-ad-format="auto"></ins>
+		</div>
+	</footer>
+</body>
+</html>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push(
+	{});
+</script>
+
+
+<script>
+	//Cuando te logeas crear un token random y lo guardas en el localstorage para usarlo despues
+	localStorage.setItem("token", "101452");
+
+	function enviarCodigo(codigo)
+	{
+		var token = localStorage.getItem("token");
+		var misdatos = "funcion=" + codigo + "&token=" + token;
+
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function()
+		{
+			if (this.readyState == 4 && this.status == 200)
+			{
+				if (codigo == 'header')
+				{
+					document.getElementById("head").innerHTML = this.responseText;
+				}
+				else if (codigo == 'autores')
+				{
+					document.getElementById("texto").innerHTML = this.responseText;
+				}
+				else if (codigo == 'footer')
+				{
+					document.getElementById("foot").innerHTML = this.responseText;
+				}
+			}
+		};
+		xhttp.open("POST", "http://mytthos.tk/ctrAutor.php", true);
+		xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+		xhttp.setRequestHeader("Content-length", misdatos.length);
+		xhttp.send(misdatos);
+	}
+</script>	

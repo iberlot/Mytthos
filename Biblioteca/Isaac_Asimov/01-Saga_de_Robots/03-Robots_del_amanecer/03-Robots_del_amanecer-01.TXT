@@ -1,0 +1,379 @@
+
+
+Isaac Asimov 
+Titulo original: The robots of dawn Traducción: María Teresa Segur y Hernán Sabate © 1988 by Isaac Asimov © 1990 Plaza y Janés Editores Travessera de Gracia 47 - Barcelona ISBN: 84-01-92101-5 Edición digital: Biblioteca Asimov R6 10/02 
+Dedicado a Marvin Minsky y Josep F. Engelberger, que compendiaron (respectivamente) la teoría y la práctica de la robótica. 
+
+
+1. BALEY 
+
+Elijah Baley se encontró a la sombra del árbol y murmuró para sí: «Lo sabía. Estoy sudando.» 
+Hizo un alto, se enderezó, se enjugó la frente con el dorso de la mano, y luego miró hoscamente el sudor que la cubría. 
+—Odio sudar —dijo en voz alta, como si enunciara una ley cósmica. Y una vez más se sintió irritado con el Universo por hacer que algo esencial fuese tan desagradable. 
+En la Ciudad nadie transpiraba jamás (a menos que lo deseara, por supuesto), ya que la temperatura y la humedad estaban totalmente controladas, y nunca era necesario que el cuerpo produjese más calor del que eliminaba. 
+Eso era la civilización. 
+Miró hacia el campo, donde unos cuantos hombres y mujeres estaban, más o menos, a su cargo. En su mayoría eran jóvenes, pero también había algunas personas de mediana edad, como él mismo. Araban la tierra con manifiesta torpeza, y desempeñaban toda una serie de labores que los robots estaban preparados para hacer... y harían con mucha más eficiencia si no les hubiesen ordenado que permanecieran al margen y esperasen mientras los seres humanos se ejercitaban obstinadamente. 
+Algunas nubes surcaban el cielo y en aquel momento el sol se ocultó tras una de ellas. Baley alzó la mirada con incertidumbre. Por una parte, eso significaba que el calor directo del sol (y el sudor) disminuirían. Por otra, ¿sería una señal de que iba a llover? 
+Eso era lo malo del Exterior. Había que enfrentarse contínuamente a alternativas desagradables. 
+Baley siempre se extrañaba de que una nube relativamente pequeña pudiese cubrir el sol en su totalidad, oscureciendo la Tierra de un horizonte a otro, aunque la mayor parte del cielo estuviese despejado. 
+Permaneció bajo el frondoso dosel del árbol (una especie de pared y techo primitivos que en aquellas circunstancias resultaban muy consoladores), y miró de nuevo hacia el grupo, examinándolo. Iban allí una vez por semana, hiciese el tiempo que hiciera. 
+Habían iniciado el experimento con un puñado de intrépidos colaboradores, pero su número se acrecentaba día a día. El gobierno de la Ciudad, si bien no respaldaba abiertamente el proyecto, se mostraba lo bastante benévolo como para no poner obstáculos. 
+Recortándose sobre el horizonte que se extendía a su derecha —hacia el este, a juzgar por la posición del sol vespertino—, Baley vio las numerosas cúpulas de la Ciudad, que encerraban todo aquello por lo que valía la pena vivir. También divisó un punto que se movía, pero estaba demasiado lejos para distinguirlo con claridad. 
+Por su modo de moverse, y por detalles demasiado sutiles como para describirlos, Baley tuvo la certeza de que era un robot, pero eso no le sorprendió. La superficie terrestre fuera de las Ciudades constituía el dominio de los robots, no de los seres humanos... a excepción de aquellos pocos, como él mismo, que soñaban con las estrellas. 
+Automáticamente sus ojos se volvieron de nuevo hacia los idealistas bañados en sudor, y fueron de uno a otro. Podía identificar y designar por su nombre a cada uno de ellos. Todos trabajando, todos aprendiendo a soportar el Exterior, y... 
+Frunció el ceño y masculló en voz baja: 
+—¿Dónde se habrá metido Bentley? Y otra voz, que sonó a sus espaldas con una exuberancia algo jadeante, dijo: 
+—Estoy aquí, papá. Baley giró en redondo. 
+—No hagas eso, Ben. 
+—¿Que no haga qué? 
+—Acercarte a mí de ese modo. Ya me cuesta bastante mantener el equilibrio en el Exterior sin tener que preocuparme también por las sorpresas. 
+—No pretendía soprenderte. Es difícil hacer ruido cuando andas sobre la hierba, y no he podido evitarlo... Pero, ¿no te parece que deberías regresar, papá? Ya hace dos horas que estás afuera y es más que suficiente. 
+—¿Por qué? ¿Porque tengo cuarenta y cinco años y tú eres un mocoso de diecinueve? Crees que debes cuidar de tu decrépito padre, ¿verdad? 
+Ben contestó: 
+—Supongo que así es. Eres un gran detective; has hecho una excelente labor de deducción. 
+Sonrió ampliamente. Tenía la cara redonda y los ojos chispeantes. Se parecía mucho a Jessie, pensó Baley; sí, se parecía mucho a su madre. No tenía nada de la cara alargada y solemne del propio Baley. 
+Y no obstante, Ben había heredado el carácter de su padre. A veces se sumía en una solemne gravedad que no dejaba lugar a dudas sobre la legitimidad de su origen. 
+—Estoy perfectamente —declaró Baley. 
+—Te creo, papá. Eres el mejor de todos nosotros, considerando... 
+—Considerando, ¿qué? 
+—Tu edad, por supuesto. Y no olvido que fuiste tú quien iniciaste todo esto. Sin embargo, he visto que te refugiabas bajo el árbol y he pensado, «Bueno, quizá el viejo ya haya tenido bastante». 
+—No me llames viejo —protestó Baley. El robot que había avistado en la dirección de la Ciudad ya estaba lo bastante cerca como para distinguirse con claridad, pero no le concedió importancia. Añadió—: Es lógico resguardarse de vez en cuando bajo un árbol si el sol brilla demasiado. Debemos aprender a utilizar las ventajas del Exterior tal como aprendemos a soportar sus inconvenientes... Ya vuelve a salir el sol. 
+—Si, en efecto. Bueno, ¿significa eso que no quieres regresar? 
+—Puedo aguantarlo. Tengo una tarde libre a la semana y me gusta pasarla aquí. Es un privilegio inherente a mi clasificación C-7. 
+—No es cuestión de privilegios, papá. Es cuestión de cansarse demasiado. 
+—Te digo que me encuentro muy bien. 
+—Sí, claro, y cuando llegues a casa, te irás directamente a la cama y permanecerás largo rato en la oscuridad. 
+—Es un antídoto natural contra el exceso de luz. 
+—Y mamá se preocupa. 
+—Pues bien, que se preocupe. No le hará ningún daño. Además, ¿qué hay de malo en estar aquí? Lo peor es que sudo, pero tengo que habituarme a ello. No debo amilanarme por eso. Cuando empecé, ni siquiera podía andar todo este trecho desde la Ciudad, y tú eras el único que me acompañaba. Mira cuántos somos ahora, y hasta dónde puedo llegar sin fatigarme. Y también puedo trabajar mucho. Aún resistiré una hora más. Fácilmente... Te digo una cosa, Ben: tu madre también debería venir aquí. 
+—¿Quién? ¿Mamá? Tú bromeas. 
+—No, hablo en serio. Cuando llegue el momento de marcharnos, tendré que quedarme, porque ella no podrá irse. 
+—Y tú, tampoco. No te engañes a ti mismo, papá. Aún falta mucho tiempo para eso, y aunque ahora no eres demasiado viejo, entonces lo serás. Deja esa empresa para los jóvenes. 
+—¿Sabes una cosa? —dijo Baley, cerrando el puño—. Estoy harto de oírte alardear sobre «la juventud». ¿Acaso has salido de la Tierra alguna vez? ¿Ha salido de la Tierra alguno de ésos que están en el campo? Yo sí. Hace dos años. Fue antes de que iniciara esta aclimatación, y sobreviví. 
+—Lo sé, papá, pero fue durante muy poco tiempo y en cumplimiento de tu deber, y cuidaron de ti en una sociedad bien organizada. No es lo mismo. 
+—Es lo mismo —remachó Baley con obstinación, aunque en el fondo sabía que no lo era—. Y no tardaremos tanto en poder marcharnos. Si lograra que me dieran la autorización para ir a Aurora, aceleraríamos las cosas. 
+—Olvídalo. No será tan fácil. 
+—Hemos de intentarlo. El gobierno no nos dejará marchar sin el visto bueno de Aurora. Es el mundo espacial más grande y poderoso y lo que ellos dicen... 
+—¡Es ley! Lo sé. Hemos hablado miles de veces sobre esto. Pero no tienes que ir allí para obtener el permiso. Hay cosas como los hiperrelés. Puedes hablar con ellos desde aquí. Ya te lo he dicho muchas veces. 
+—No es lo mismo. Necesitamos establecer contacto personal, y eso también te lo he repetido muchas veces. 
+—En todo caso —repuso Ben—, aún no estamos preparados. 
+—No lo estamos porque la Tierra no quiere darnos las naves. Los espaciales nos las darán, junto con la ayuda técnica necesaria. 
+—¡Cuánta fe! ¿Por qué crees que los espaciales harían tal cosa? ¿Desde cuándo abrigan tan buenos sentimientos hacia unos seres de tan corta vida como los terrícolas? 
+—Si pudiera hablar con ellos... —Ben se echó a reír. 
+—Vamos, papá. Tú sólo quieres ir a Aurora para ver de nuevo a esa mujer. 
+Baley frunció el ceño, y sus cejas se arquearon sobre los ojos hundidos. 
+—¿Una mujer? Jehoshaphat, Ben, ¿de qué estás hablando? 
+—¡Oh, papá! Entre nosotros, y sin que se entere mamá, ¿qué sucedió con aquella mujer de Solaria? Ya soy mayor. Puedes contármelo. 
+—¿Qué mujer de Solaria? 
+—¿Cómo puedes mirarme a la cara y hacerte el despistado hablando de una mujer a la que todos vimos en el drama emitido por hiperondas? Gladia Delmarre. ¡Esa mujer! 
+—No sucedió nada. Esa emisión fue una estupidez. Te lo he dicho miles de veces. Yo no le interesaba. Ella no me interesaba. Todo aquello fue una patraña, y sabes que se hizo en contra de mi voluntad, sólo porque el gobierno pensó que contribuiría a que los espaciales nos miraran con buenos ojos. Y te aconsejo que no insinúes otra cosa a tu madre. 
+—¡Ni soñarlo! De todos modos, esa Gladia fue a Aurora, y tú te empeñas en ir a Aurora. 
+—¿Piensas sinceramente que mi razón para querer ir a Aurora...? ¡Oh, Jehoshaphat! —Su hijo enarcó las cejas. 
+—¿Qué ocurre? 
+—El robot. Es R. Gerónimo. 
+—¿Quién? 
+—Uno de los robots mensajeros de nuestro departamento. ¡Y ha venido hasta aquí! Es mi tarde libre y he dejado deliberadamente el receptor en casa porque no quería que me localizaran. Es mi privilegio como C-7 y, a pesar de ello, han enviado un robot en mi busca. 
+—¿Cómo sabes que viene en tu busca, papá? 
+—Simple deducción. Primero, aquí no hay nadie más que esté relacionado con el Departamento de Policía, y segundo, ese miserable chisme se dirige en linea recta hacia mí. Por eso deduzco que viene a buscarme. Debería esconderme detrás del árbol y no moverme de allí. 
+—No es una pared, papá. El robot daría la vuelta al árbol. Y el robot llamó: 
+—Amo Baley, tengo un mensaje para ti. Te reclaman en la jefatura. 
+El robot se detuvo, esperó, y volvió a decir: 
+—Amo Baley, tengo un mensaje para ti. Te reclaman en la jefatura. 
+—Oído y comprendido —dijo Baley con voz inexpresiva. Tenía que decirlo o el robot habría seguido repitiendo. 
+Baley frunció ligeramente el ceño mientras inspeccionaba al robot. Era un modelo nuevo, un poco más humaniforme que los anteriores. Había sido desembalado y activado un mes antes, y con cierto grado de fanfarria. El gobierno siempre se esforzaba en hacer algo —lo que fuera— susceptible de generar una mayor aceptación de los robots. 
+Tenía una superficie grisácea con un acabado mate y un tacto levemente elástico (comparable al cuero, tal vez). La expresión facial, aunque bastante inmutable, no parecía tan idiota como la de la mayor parte de los robots. Sin embargo, mentalmente, era tan idiota como el resto. 
+Por un momento, Baley pensó en R. Daneel Olivaw, el robot espacial que había colaborado con él en dos misiones, una en la Tierra y otra en Solaria. Daneel era un robot tan humano que Baley podía tratarle como a un amigo e incluso encontrarlo a faltar, aún ahora. Si todos los robots hubieran sido así... 
+Baley dijo: 
+—Hoy es mi dia libre, muchacho. No es necesario que vaya a la jefatura. 
+R. Gerónimo hizo una pausa. En sus manos se produjo una ligera vibración. Baley lo advirtió y comprendió que indicaba un cierto grado de conflicto en los mecanismos positrónicos del robot. Tenían que obedecer a los seres humanos, pero era muy frecuente que dos seres humanos quisieran dos tipos distintos de obediencia. 
+El robot tomó una decisión. Dijo: 
+—Es tu dia libre, amo... Te reclaman en la jefatura. 
+Ben intervino con desasosiego: 
+—Si te necesitan, papá... 
+Baley se encogió de hombros. 
+—No te dejes engañar, Ben. Si realmente me necesitaran, habrían enviado un vehículo cerrado y probablemente habrían utilizado un voluntario humano, en vez de ordenar a un robot que hiciera esa caminata y me irritara con uno de sus mensajes. 
+Ben meneó la cabeza. 
+—No lo creo, papá. No sabían dónde estabas o cuánto tardarían en encontrarte. No creo que quisieran ordenar una búsqueda tan problemática a un ser humano. 
+—¿Sí? Bueno, veamos cuan tajante es esa orden... R. Gerónimo, regresa a la jefatura y diles que estaré en mi trabajo a las nueve. —Luego gritó—: ¡Regresa! ¡Es una orden! 
+El robot titubeó perceptiblemente, y luego se volvió, dio unos pasos, se volvió de nuevo, hizo un intento de ir hacia Baley y permaneció en el mismo lugar, con todo el cuerpo vibrando. 
+Baley interpretó esos signos como lo que eran y dijo a Ben: 
+—Tendré que ir. ¡Jehoshaphat! 
+Lo que alteraba al robot era lo que los roboticistas llamaban un equipotencial de contradicción de segundo grado. La obediencia constituía la Segunda Ley, y R. Gerónimo se veía enfrentado a dos órdenes aproximadamente iguales y contradictorias. El término vulgar para designar ese fenómeno era «bloqueo robótico», o con más fecuencia «robloqueo», para abreviar. 
+Lentamente, el robot se volvió. La primera orden era la más fuerte, aunque no mucho más, de modo que su voz sonó confusa. —Amo, me advirtieron que podías decir eso. Entonces, yo debía decir... —Hizo una pausa, y luego añadió en tono ronco—: Yo debía decir... si estabas solo. Baley inclinó la cabeza en dirección a su hijo, y Ben no esperó. Sabía cuándo Baley era su padre y cuándo era un policía, y se alejó apresuradamente. Por un momento, Baley se sintió tentado de reforzar su propia orden y provocar un robloqueo casi total, pero eso seguramente causaría unos daños que requerirían un análisis positrónico y una nueva programación. Los gastos le serían deducidos del sueldo, y podían ascender fácilmente a la paga de un año. 
+Dijo: 
+—Retiro mi orden. ¿Qué debías decirme? 
+La voz de R. Gerónimo se aclaró inmediatamente. 
+—Debía decirte que te necesitan en relación con Aurora. Baley se volvió hacia Ben y gritó: 
+—Dales otra media hora y luego diles que quiero que regresen. Yo tengo que irme. 
+Y mientras se alejaba a grandes pasos, preguntó con petulancia al robot: 
+—¿Por qué no podían ordenarte que lo dijeras inmediatamente? ¿Y por qué no pueden programarte para llevar un coche y así no tener que caminar? 
+Sabía muy bien por qué no lo hacían. Un accidente automovilístico causado por un robot desataría otro motín antirrobots. 
+No aflojó el paso. Aún faltaban dos kilómetros para llegar a la muralla de la ciudad y luego tendrían que sortear un intenso tráfico para alcanzar la jefatura de policía. 
+¿Aurora? ¿Qué clase de crisis les amenazaría ahora? 
+Media hora después Baley llegó a la entrada de la Ciudad y se preparó para lo inevitable. Aunque quizá —quizá— aquella vez no sucediera. 
+Llegó al plano divisor entre el Exterior y la Ciudad, la muralla que separaba el caos de la civilización. Colocó una mano sobre el cuadro de señales y apareció una abertura. Como de costumbre, no esperó a que la abertura fuese completa, sino que pasó a través de ella en cuanto fue lo bastante ancha. R. Gerónimo le siguió. 
+El centinela de servicio pareció sobresaltarse, como siempre que entraba alguien del Exterior. Cada vez se producía la misma expresión de incredulidad, la misma actitud de súbita alarma, el mismo movimiento de la mano hacia la pistola, el mismo ceño de incertidumbre. 
+Baley presentó su tarjeta de identidad con expresión severa, y el centinela le saludó. La puerta se cerró tras él... y sucedió. 
+Baley se hallaba dentro de la Ciudad. La muralla se cerró a su alrededor y la Ciudad se convirtió en el Universo. Volvía a estar inmerso en el sempiterno murmullo y olor a gente y maquinaria que pronto se desvanecerían tras los umbrales de la conciencia; en la luz artificial, suave e indirecta, que no tenía nada que ver con el fulgor parcial y variable del Exterior, con sus verdes y marrones, azules y blancos, y sus interrupciones rojas y amarillas. Aquí no había ráfagas de viento, ni calor, ni frio, ni amenaza de lluvia, sino la serena estabilidad de inapreciables corrientes de aire que mantenían un frescor constante. Aquí reinaba una combinación de temperatura y humedad tan perfectamente adaptada a los humanos que resultaba imperceptible. 
+Baley exhaló un profundo suspiro y se alegró de hallarse en casa y a salvo con lo conocido y conocible. 
+Era lo que siempre sucedía. Nuevamente, había aceptado la Ciudad como el claustro materno y había regresado a ella con regocijado alivio. Sabía que ese claustro materno era algo de lo que la humanidad debía salir para nacer. ¿Por qué siempre volvía a refugiarse en él de aquel modo? 
+¿Sería siempre así? ¿Resultaría, al final, que aunque pudiera sacar a otros de la Ciudad y de la Tierra y llevarlos a las estrellas, él mismo no sería capaz de ir? ¿Acaso nunca se sentiría a gusto más que en la Ciudad? 
+Apretó los dientes... pero no tenía objeto pensar en ello. 
+Dijo al robot: 
+—¿Te han traído en coche hasta este lugar, muchacho? 
+—Sí, amo. 
+—¿Dónde está? 
+—No lo sé, amo. 
+Baley se volvió hacia el centinela. 
+—Oficial, este robot ha sido depositado aquí hace menos de dos horas. ¿Dónde está el coche que le ha traído? 
+—Señor, he entrado de guardia hace menos de una hora. 
+En realidad, era absurdo preguntarlo. Los del coche no sabían cuánto rato tardaría el robot en encontrarle, de modo que no habían esperado. Baley tuvo el breve impulso de llamar a la jefatura, pero le dirían que tomara el expreso; sería más rápido. 
+El único motivo que le hizo titubear fue la presencia de R. Gerónimo. No quería viajar con él en el expreso, pero tampoco podía esperar que el robot se abriera paso hasta la jefatura a través de una multitud hostil. 
+No tenía alternativa. Indudablemente el comisario no estaba dispuesto a facilitarle las cosas. Le habría molestado no tenerle a mano, fuera su tarde libre o no. 
+Baley dijo: 
+—Por aquí, muchacho. 
+La Ciudad ocupaba más de cinco mil kilómetros cuadrados y contenía más de cuatrocientos kilómetros de expreso, más centenares de kilómetros de tributario, para servicio de sus veinte millones de habitantes. La intrincada red de comunicaciones se distribuía en ocho niveles distintos y había cientos de cruces con diversos grados de complejidad. 
+Como detective, Baley tenía la obligación de conocerlos todos, y así era. Si le hubieran llevado a cualquier lugar de la Ciudad con los ojos vendados, y allí le hubieran quitado la venda, habría sabido encontrar el camino a cualquier otro punto sin la menor vacilación. 
+Así pues, era indudable que sabía cómo ir a la jefatura. Había ocho itinerarios razonables entre los que escoger, pero titubeó un momento acerca de cuál estada menos concurrido a aquella hora. 
+Sólo un momento. Luego se decidió, y dijo: 
+—Ven conmigo, muchacho. —El robot le siguió dócilmente. 
+Saltaron a un ramal que pasaba cerca de allí, y Baley se agarró a uno de los postes verticales: era blanco y cálido, y tenía una textura antideslizante. No se molestó en sentarse; el trayecto no sería largo. El robot había esperado el rápido gesto de Baley antes de colocar la mano sobre el mismo poste. También habría podido permanecer en pie sin agarrarse; no le habría resultado difícil mantener el equilibrio; pero Baley no quería correr ningún riesgo. Era responsable del robot y tendría que restituir la pérdida económica a la Ciudad si a R. Gerónimo le ocurriese algo. 
+En el ramal viajaban algunas personas más y todos los ojos se volvieron curiosamente —e inevitablemente— hacia el robot. Baley devolvió esas miradas una por una. Tenía un aire de autoridad que infundía respeto y todos los ojos se desviaron hacia otro lado. 
+Baley hizo otra seña al saltar del ramal. Ya había llegado a las pistas y avanzaba a la misma velocidad que la pista más cercana, de modo que no hubo de reducir la marcha. Baley saltó a esa pista más cercana y notó el azote del aire cuando se encontró fuera de la envoltura plástica. 
+Se inclinó contra el viento con la naturalidad de la práctica, levantando un brazo para contrarrestar la fuerza a la altura de los ojos. Siguió las pistas hacia abajo hasta el cruce con el expreso y luego empezó a subir en dirección a la pista rápida que bordeaba el expreso. 
+Oyó que un adolescente gritaba «¡Robot!» (él también había sido joven) y supo con exactitud lo que iba a suceder. Un grupo de ellos —dos o tres o media docena— se acercaría por una pista y, casualmente, el robot tropezaría y caería al suelo. Luego, si el caso llegaba a los tribunales, el muchacho detenido declararía que el robot había chocado con él y constituía una amenaza para la circulación, e indudablemente sería puesto en 
+libertad. 
+El robot no podía defenderse y, mucho menos, testificar. 
+Baley reaccionó sin perder un segundo y se colocó entre el primero de los adolescentes y el robot. Pasó a una pista más rápida, levantó el brazo un poco más, como para defenderse de la mayor intensidad del viento, y un súbito codazo envió al muchacho a una pista más lenta para la que no estaba preparado. Gritó frenéticamente «¡Eh!» mientras se caía de bruces. Los otros se detuvieron, evaluaron rápidamente la situación, y cambiaron de rumbo. 
+Baley dijo: 
+—Al expreso, muchacho. 
+El robot titubeó unos instantes. Los robots no estaban autorizados a viajar solos en el expreso. Sin embargo, la orden de Baley había sido terminante, y subió a bordo. Baley le siguió, y eso alivió al robot. 
+Baley se abrió paso a codazos entre la multitud de viajeros, empujando a R. Gerónimo para que fuera delante de él, para dirigirse hacia un nivel menos concurrido. Se agarró a un poste y mantuvo un pie sobre los del robot, volviendo a desviar todas las miradas con el fulgor de sus ojos. 
+Tras recorrer quince kilómetros y medio se encontró en el punto más próximo a la jefatura de policía y se apeó. R. Gerónimo se apeó tras él. Estaba intacto, sin un solo rasguño. Baley lo entregó en la puerta y aceptó un recibo. Verificó cuidadosamente la fecha, la hora, y el número de serie del robot, y luego se lo guardó en la cartera. Antes de que finalizara el día, haría las comprobaciones de rigor y se aseguraría de que la operación hubiera sido registrada en la computadora. 
+En aquel momento iba a ver al comisario, y conocía al comisario. Cualquier desliz por parte de Baley significaría una degradación inmediata. El comisario era un hombre implacable. Consideraba los pasados triunfos de Baley como una ofensa personal. 
+El comisario era Wilson Roth. Hacía dos años y medio que ocupaba el cargo, desde que Julius Enderby lo dejó vacante cuando el furor desatado por el asesinato de un espacial hubo cedido y pudo presentar la dimisión honorablemente. 
+Baley nunca se había adaptado por completo al cambio. Julius, con todos sus defectos, había sido su amigo al mismo tiempo que su superior. Roth sólo era su superior. Ni siquiera había nacido en la Ciudad. No en aquella Ciudad. Lo habían traído de fuera. 
+Roth no era demasiado alto ni demasiado gordo. Sin embargo, su cabeza era grande y parecía asentarse sobre un cuello ligeramente inclinado hacia delante en relación al torso. Eso le hacía parecer lento y pesado, tanto de cuerpo como de mente. Incluso tenía unos párpados caídos que ocultaban parcialmente sus ojos. 
+Daba la impresión de estar siempre amodorrado, pero jamás le pasaba nada por alto. Baley no tardó en descubrirlo cuando Roth se hizo cargo del departamento. Era consciente de que Roth no le gustaba. Aún era más consciente de que él no gustaba a Roth. 
+Roth no habló con petulancia —nunca lo hacía— pero sus palabras tampoco denotaron complacencia. 
+—Baley, ¿por qué es tan difícil encontrarle? —preguntó. Baley contestó en tono respetuoso: 
+—Es mi tarde libre, comisario. 
+—Sí, su privilegio como C-7. Sabe lo que es un transmisor de ondas, ¿verdad? Algo que recibe mensajes oficiales. Usted puede ser llamado en cualquier momento, incluso durante su tiempo libre. 
+—Lo sé muy bien, comisario, pero no hay ninguna norma que obligue a llevar encima un transmisor de ondas. Podemos ser localizados sin necesidad de ellos. 
+—Dentro de la Ciudad, sí, pero usted estaba en el Exterior... ¿o me equivoco? 
+—No se equivoca, comisario. Estaba en el Exterior. El reglamento no especifica que, en tal caso, deba llevar un transmisor de ondas. 
+—Se esconde tras la letra del estatuto, ¿verdad? 
+—Sí, comisario —respondió Baley con calma. 
+El comisario se levantó, desdoblando su cuerpo robusto y vagamente amenazador, y se sentó encima de la mesa. La ventana con vistas al Exterior, que Enderby mandara instalar, había sido tapiada y pintada hacía tiempo. En la habitación totalmente cerrada (más cálida y cómoda, por cierto) el comisario parecía más voluminoso. 
+Sin levantar la voz, dijo: 
+—Creo, Baley, que confía demasiado en la gratitud de la Tierra. 
+—Confío en hacer mi trabajo, comisario, lo mejor que puedo y de acuerdo con el reglamento. 
+—Y en la gratitud de la Tierra cuando quebranta el espíritu de ese reglamento. Baley no objetó nada. El comisario añadió: 
+—Se ensalza su actuación en el caso del asesinato de Sarton, hace tres años. 
+—Gracias, comisario —dijo Baley—. Creo que el desmántelamiento de Espacioburgo fue una de las consecuencias. 
+—En efecto... y fue algo muy aplaudido por toda la Tierra. También se ensalza su actuación en Solaria hace dos años y, antes de que me lo recuerde, el resultado fue una revisión de los tratados comerciales con los mundos espaciales, lo cual favoreció considerablemente a la Tierra. 
+—Creo que eso consta en el informe, señor. 
+—Y el resultado es que usted se convirtió en un héroe. 
+—Yo no diría tanto. 
+—Le han ascendido dos veces, una después de cada misión. Incluso se hizo un drama de hiperondas basado en los sucesos de Solaria. 
+—Sin mi permiso y en contra de mi voluntad, comisario. 
+—De todos modos, le convirtió en una especie de héroe. 
+Baley se encogió de hombros. 
+El comisario, tras esperar una respuesta más explícita durante unos segundos, prosiguió: 
+—Pero no ha hecho nada importante en casi dos años. 
+—Es natural que la Tierra pregunte qué he hecho por ella últimamente. 
+—Así es. Sin duda pregunta. Todo el mundo sabe que usted es el impulsor de esa nueva moda consistente en salir al Exterior, trabajar la tierra y emular a los robots. 
+—Está permitido. 
+—No todo lo permitido es digno de admiración. Es posible que más personas le consideren peculiar que heroico. 
+—Eso estaría más de acuerdo con la opinión que yo tengo de mí mismo. 
+—El público tiene muy mala memoria. En su caso, lo heroico está desvaneciéndose rápidamente detrás de lo peculiar, de modo que si comete un error tendrá serios problemas. La reputación en la que usted confía... 
+—Con todos los respetos, comisario, yo no confío en ella. 
+—La reputación en la que el Departamento de Policía cree que usted confía no le salvará, y yo tampoco podré hacerlo. 
+La sombra de una sonrisa pareció distender momentáneamente las hoscas facciones de Baley. 
+—No querría, comisario, que arriesgara su puesto en un intento desesperado por salvarme. 
+El comisario se encogió de hombros y esbozó una sonrisa igualmente leve y fugaz. 
+—No debe preocuparse por eso. 
+—Entonces, ¿por qué me dice todo esto, comisario? 
+—Para advertirle. No intento destruirle, por supuesto, de modo que le advierto una vez. Va a verse envuelto en un asunto muy delicado, en el cual puede cometer fácilmente un error, y le estoy advirtiendo que no debe cometer ninguno. —Aquí su cara se relajó en una sonrisa inconfundible. 
+Baley no respondió a esa sonrisa. Preguntó: 
+—¿Puede revelarme cuál es ese asunto tan delicado? 
+—No lo sé. 
+—¿Está relacionado con Aurora? 
+—Es lo que R. Gerónimo debía decirle, si era necesario, pero yo no sé nada al respecto. 
+—Entonces, ¿cómo sabe, comisario, que es un asunto muy delicado? 
+—Vamos, Baley, usted es un investigador de misterios. ¿Por qué viene un miembro del Departamento de Justicia de la Tierra a la Ciudad, cuando usted podría haber ido a Washington, como hizo dos años atrás en relación con el incidente de Solaria? Y ¿por qué esa persona del Departamento de Justicia frunce el ceño y parece irritada y se impacienta cuando no le localizamos instantáneamente? Su decisión de permanecer inaccesible ha sido un error, un error del que yo no soy responsable en absoluto. Quizá no sea fatal en sí mismo, pero considero que ha empezado con mal pie. 
+—Sin embargo, usted me retrasa aún más —dijo Baley, frunciendo el ceño. 
+—No lo crea. El enviado del Departamento de Justicia está tomando una pequeña colación; ya sabe cómo son los terrícolas. Se reunirá con nosotros cuando haya terminado. Le he avisado de su llegada, de modo que continúe esperando, tal como hago yo. 
+Baley esperó. En su momento, había comprendido que el drama emitido por hiperondas en contra de su voluntad, aunque favoreciera los intereses de la Tierra, perjudicaría su posición en el departamento. Le había presentado en relieve tridimensional frente a la llanura bidimensional de la organización que le había convertido en un hombre famoso. 
+Había accedido a una graduación superior y a mayores privilegios, pero eso también había incrementado la hostilidad del departamento hacia él. Y cuanto más arriba estuviese, más fuerte sería el golpe en caso de caída. 
+Si cometía un error... 
+El enviado del Departamento de Justicia entró, miró con indiferencia a su alrededor, dio la vuelta a la mesa de Roth y tomó asiento. Como oficial de mayor rango, tenía derecho a hacerlo. Roth se sentó tranquilamente en otra silla. 
+Baley permaneció en pie, esforzándose por no revelar su sorpresa. 
+Roth podía haberle advertido, pero no lo había hecho. Por el contrario, había escogido cuidadosamente las palabras para no darle ningún indicio. 
+El enviado del Departamento de Justicia era una mujer. 
+No había ninguna razón para que no fuese así. Cualquier funcionario podía ser una mujer. El secretario general podía ser una mujer. También había mujeres en el cuerpo de policía, e incluso una mujer con el grado de capitán. 
+La cuestión era que, sin previo aviso, uno nunca lo esperaba. En algunas épocas de la historia las mujeres habían ocupado puestos administrativos en número considerable. Baley lo sabía; conocía bien la historia. Pero aquélla no era una de esas épocas. 
+Era una mujer bastante alta y se sentaba muy erguida en la silla. Su uniforme no se diferenciaba demasiado del de un hombre, ni tampoco su peinado. Lo que traicionaba su sexo inmediatamente eran sus senos, cuya prominencia ella no intentaba ocultar. 
+Tenía alrededor de cuarenta años, y unas facciones regulares y nítidamente marcadas. Llevaba bien su edad, sin una cana visible en su cabello oscuro. 
+Dijo: 
+—Usted es el detective Elijah Baley, clasificación C-7. —Fue una aseveración, no una pregunta. 
+—Sí, señora —contestó, no obstante, Baley. 
+—Soy la subsecretaria Lavinia Demachek. Es usted muy distinto de cómo le representaron en el drama emitido por hiperondas. 
+Baley había oído ese comentario con frecuencia. 
+—No podían retratarme tal como soy y reunir mucho público, señora —contestó secamente. 
+—No estoy tan segura de eso. Usted tiene más personalidad que aquel actor con cara de niño que le representó. 
+Baley titubeó unos segundos y decidió correr el riesgo, o tal vez no pudo resistirse a hacerlo. Solamente, declaró: 
+—Tiene un gusto muy refinado, señora. 
+Ella se echó a reír y Baley exhaló un suspiro de alivio. 
+Luego la mujer dijo: 
+—Eso me gusta creer... En fin, ¿qué se propone haciéndome esperar? 
+—No me informaron de que vendría, señora, y era mi tarde libre. 
+—Que, por lo visto, pasaba en el Exterior. 
+—Sí, señora. 
+—Debe de ser uno de esos chiflados, como diría si no tuviese un gusto tan refinado. Déjeme preguntarle, en cambio, si es uno de esos entusiastas. 
+—Sí, señora. 
+—¿Espera emigrar algún día y fundar nuevos mundos en la inmensidad de la Galaxia? 
+—Quizá no, señora. Es posible que sea demasiado viejo para eso, pero... 
+—¿Cuántos años tiene? 
+—Cuarenta y cinco, señora. 
+—Sí, los aparenta. Casualmente, yo también tengo cuarenta y cinco años. 
+—No los aparenta, señora. 
+—¿Aparento más o menos? —Se echó a reír nuevamente y luego dijo—: Pero dejémonos de juegos. ¿Insinúa que soy demasiado vieja para ser una pionera? 
+—Nadie puede ser pionero en nuestra sociedad sin entrenarse en el Exterior. Los jóvenes son quienes mejor resisten ese entrenamiento. Yo espero que mi hijo ponga algún día los pies en otro mundo. 
+—¿De veras? Sabrá usted, naturalmente, que la Galaxia pertenece a los mundos espaciales. 
+—Sólo son cincuenta, señora. En la Galaxia hay millones de mundos que son habitables, o pueden llegar a serlo, y que probablemente no poseen una vida autóctona inteligente. 
+—Sí, pero ni una sola nave puede abandonar la Tierra sin permiso de los espaciales. 
+—Eso podría arreglarse, señora. 
+—No comparto su optimismo, señor Baley. 
+—Yo he hablado con espaciales que... 
+—Sé que lo ha hecho —le interrumpió Demachek—. Mi superior es Albert Minnim, quien, hace dos años, le envió a Solaria. —Se permitió curvar ligeramente los labios.— Un actor le personificó en un papel secundario del drama de hiperondas, y se le parecía bastante, si no recuerdo mal. Lo que sí recuerdo con toda claridad es que a él no le gustó nada. 
+Baley cambió de tema. 
+—Pedí al subsecretario Minnim... 
+—Le han ascendido, ¿sabe? 
+Baley comprendía plenamente la importancia de los grados de clasificación. 
+—¿Su nuevo título, señora? 
+—Vicesecretario. 
+—Gracias. Pedí al vicesecretario Minnim que me solicitara el permiso para visitar Aurora con objeto de tratar esta cuestión. 
+—¿Cuándo? 
+—No mucho después de mi regreso de Solaria. Desde entonces he renovado la petición dos veces. 
+—¿Pero no ha recibido una contestación favorable? 
+—No, señora. 
+—¿Le sorprende? 
+—Me decepciona, señora. 
+—No tiene por qué. —Se recostó un poco en la silla—. Nuestras relaciones con los mundos espaciales son muy delicadas. Quizás usted crea que sus dos misiones anteriores han mejorado la situación... y así ha sido. Ese espantoso drama de hiperondas también ha contribuido. Sin embargo, el camino que hemos recorrido es éste —colocó el pulgar y el índice a unos milímetros de distancia— frente a todo éste —y separó mucho las manos. 
+»En estas circunstancias —continuó—, no podemos correr el riesgo de enviarle a Aurora, el mundo espacial dominante, y dejarle hacer algo que quizás engendrara un brote de tensión interestelar. 
+Baley la miró a los ojos. 
+—He estado en Solaria y no he hecho ningún daño. Por el contrario... 
+—Sí, lo sé, pero fue allí a petición de los espaciales, lo cual es muy distinto de ir a petición nuestra. Tiene usted que comprenderlo. 
+Baley guardó silencio. 
+Ella soltó un leve resoplido y dijo: 
+—La situación ha empeorado desde que el vicesecretario recibió, y desechó muy acertadamente, sus solicitudes. Ha empeorado mucho más en el último mes. 
+—¿Es ése el motivo de esta entrevista, señora? 
+—¿Se está impacientando, señor? —le preguntó sardónicamente Demachek—. ¿Me apremia para que vaya al grano? 
+—No, señora. 
+—Claro que sí. Y ¿por qué no? Empiezo a resultar tediosa. Déjeme concretar un poco más preguntándole si conoce al doctor Han Fastolfe. 
+Baley respondió con cautela: 
+—Nos encontramos una vez, hace casi tres años, en lo que entonces era Espacioburgo. 
+—Le gustó, supongo. 
+—Era amigable... para ser espacial. 
+Ella dio otro resoplido. 
+—Me lo imagino. ¿Está enterado de que ha sido una importante fuerza política en Aurora durante los dos últimos años? 
+—Me enteré de que estaba en el gobierno por un... un compañero que tuve una vez. 
+—¿Por R. Daneel Olivaw, el robot espacial amigo suyo? 
+—Ex compañero mío, señora. 
+—¿Cuando usted resolvió un pequeño problema relacionado con dos matemáticos a bordo de una nave espacial? 
+Baley asintió. 
+—Sí, señora. 
+—Como verá, estamos bien informados. El doctor Han Fastolfe ha sido, más o menos, la luz que ha guiado al gobierno aurorano durante dos años, una figura importante de su Cuerpo Legislativo Mundial, e incluso se habla de él como posible futuro presidente. El presidente, como sabrá, es lo más cercano a jefe de estado que tienen los auroranos. 
+—Sí, señora —dijo Baley, y se preguntó cuándo llegaría a aquel asunto tan delicado del que había hablado el comisario. Demachek no parecía tener prisa. Dijo: 
+—Fastolfe es un... moderado. Así es como se llama a sí mismo. Opina que Aurora, y los mundos espaciales en general, han ido demasiado lejos en su dirección, tal como usted debe opinar que la Tierra ha ido demasiado lejos en la suya. Desea dar marcha atrás para tener menos roboticidad, un cambio generacional más rápido, y un tratado de amistad con la Tierra. Por supuesto, nosotros le apoyamos... pero muy en secreto. Demostrarle claramente nuestro afecto sería como darle el beso de la muerte. 
+Baley dijo: 
+—Creo que él apoyaría la exploración y colonización de otros mundos por parte de la Tierra. 
+—Yo también lo creo. Tengo la impresión de que así se lo comunicó a usted. 
+—Si, señora, cuando nos conocimos. 
+Demachek unió las manos y apoyó la barbilla en las puntas de los dedos. 
+—¿Cree que representa a la opinión pública de los mundos espaciales? 
+—No lo sé, señora. 
+—Me temo que no. Los que están con él son débiles. Los que están contra él son una apasionada legión. Sólo su habilidad política y su encanto personal le han mantenido tan cerca de la cúpula del poder. Por supuesto, su mayor debilidad es su simpatía por la Tierra. Eso es algo que se utiliza constantemente en contra suya e influye sobre muchos que compartirían sus puntos de vista en todos los demás aspectos. Si usted fuera enviado a Aurora, cualquier error por su parte contribuiría a reforzar la tendencia antiterrícola y por lo tanto le debilitaría, posiblemente de un modo fatal. La Tierra no puede correr ese riesgo. 
+Baley murmuró: 
+—Comprendo. 
+—Fastolfe está dispuesto a correr el riesgo. Fue él quien solicitó que le enviáramos a usted a Solaria cuando su poder político apenas estaba comenzando y era muy vulnerable. Sin embargo, él sólo se juega su poder político, mientras que nosotros debemos velar por el bienestar de ocho mil millones de terrícolas. Esto es lo que hace tan sumamente delicada la actual situación política. 
+Hizo una pausa y, finalmente, Baley se vio obligado a formular la pregunta. 
+—¿Cuál es la situación a que se refiere, señora? 
+—Al parecer —dijo Demachek—, Fastolfe está implicado en un escándalo muy grave y sin precedentes. Si es torpe, será destruido politicamente en cuestión de semanas. Si es sobrehumanamente listo, quizá se aguante algunos meses. Más pronto o más tarde podría ser destruido como una fuerza política en Aurora... y eso, como usted comprenderá, sería un verdadero desastre para la Tierra. 
+—¿Puedo preguntar de qué se le acusa? ¿Corrupción? ¿Traición? 
+—Nada tan insignificante. Su integridad personal es incuestionable incluso para sus enemigos. 
+—¿Un crimen pasional, quizá? ¿Un asesinato? 
+—No exactamente un asesinato. 
+—No comprendo, señora. 
+—En Aurora hay seres humanos, señor Baley. Y también hay robots, la mayoría de ellos bastante parecidos a los nuestros, no mucho más perfeccionados en la mayor parte de los casos. Sin embargo, hay unos cuantos robots humaniformes, robots tan humaniformes que pueden tomarse por humanos. 
+Baley asintió. 
+—Lo sé muy bien. 
+—Supongo que la destrucción de un robot humaniforme no es exactamente un asesinato, en el estricto sentido de la palabra. 
+Baley se inclinó hacia delante, con los ojos muy abiertos. Gritó: 
+—¡Jehoshaphat, mujer! Déjese de rodeos. ¿Me está diciendo que el doctor Fastolfe ha matado a R. Daneel? 
+Roth se levantó de un salto y pareció dispuesto a abalanzarse sobre Baley, pero la subsecretaria Demachek le contuvo con un gesto. Permanecía impasible. Dijo: 
+—En vista de las circunstancias, pasaré por alto su falta de respeto. No, R. Daneel noha sido asesinado. Él no es el único robot humaniforme de Aurora. Otro robot, no R. Daneel, ha sido asesinado, si se empeña en utilizar ese término. Para ser más precisos, su mente ha sido destruida por completo; fue sometido a un robloqueo permanente e irreversible. 
+Baley inquirió: 
+—¿Y dicen que el doctor Fastolfe lo hizo? 
+—Eso dicen sus enemigos. Los extremistas, partidarios de que sólo los espaciales se desplieguen por la Galaxia y de que los terrícolas desaparezcan del Universo, eso dicen. Si estos extremistas consiguen que se celebren otras elecciones en las próximas semanas, no hay duda de que obtendrán el control absoluto del gobierno, con resultados incalculables. 
+—¿Por qué es este robloqueo tan importante políticamente? No lo entiendo. 
+—Ni yo misma estoy segura —dijo Demachek—. No pretendo comprender la política aurorana. Deduzco que los humaniformes estaban relacionados de algún modo con los planes de los extremistas y que la destrucción les ha enfurecido. —Arrugó la nariz—. Encuentro su política muy desconcertante y sólo le confundiría si tratara de interpretarla. 
+Baley hizo un esfuerzo por dominarse bajo la serena mirada de la subsecretaria. Preguntó en voz baja: 
+—¿Por qué estoy aquí? 
+—Por Fastolfe. Una vez ya salió al espacio para resolver un asesinato y lo consiguió. Fastolfe quiere que vuelva a intentarlo. Irá a Aurora y descubrirá quién fue responsabledel robloqueo. Él cree que es su única posibilidad de contener a los extremistas. 
+—Yo no soy un robótico. No sé nada de Aurora... 
+—Tampoco sabía nada de Solaria, pero se las arregló. La cuestión es, Baley, que nosotros estamos tan ansiosos como Fastolfe por averiguar lo que realmente sucedió. No queremos que sea destruido. Si lo es, esos extremistas espaciales nos someterán a una clase de hostilidad que probablemente será mayor que todo lo que hemos experimentado hasta ahora. No queremos que eso ocurra. 
+—No puedo asumir esta responsabilidad, señora. La misión es... 
+—Casi imposible. Lo sabemos, pero no tenemos alternativa. Fastolfe insiste... y, por el momento, el gobierno aurorano le respalda. Si usted se niega a ir o si nosotros nos negamos a dejarle ir, tendremos que afrontar las iras auroranas. Si va y consigue su propósito, estaremos salvados y usted será debidamente recompensado. 
+—¿Y si voy... y fracaso? 
+—Haremos todo lo posible para que la culpa recaiga sobre usted y no sobre la Tierra. 
+—En otras palabras, los círculos oficiales quedarán a salvo. 
+Demachek dijo: 
+—Hay otro modo de enfocarlo y es que usted será echado a los lobos con la esperanza de que la Tierra no sufra demasiado. Un solo hombre no es un precio muy alto por nuestro planeta. 
+—A mí me parece que, como estoy seguro de fracasar, es mejor que no vaya. 
+—Sabe muy bien que esto es imposible —replicó Demachek—. Aurora le ha reclamado y usted no puede negarse a acudir. Además, ¿por qué iba a negarse? Lleva dos años intentando ir a Aurora y estaba muy descontento porque no le concedíamos el permiso. 
+—Quería ir en son de paz para solicitar ayuda en la colonización de otros mundos, no para... 
+—También puede intentar obtener su ayuda para colonizar esos otros mundos, Baley. Al fin y al cabo, imagínese que triunfa. Después de todo, es posible. En ese caso, Fastolfe estaría mucho más obligado hacia usted y le prestaría todo su apoyo. Y nosotros mismos estaríamos lo bastante agradecidos para respaldarle. ¿No cree que vale la pena correr el riesgo, aunque sea grande? Por pocas que sean sus posibilidades son nulas si no va. Piense en ello, Baley, pero por favor... no se tome demasiado tiempo. 
+Baley apretó los labios y, al fin, comprendiendo que no tenía alternativa, preguntó: 
+—¿De cuánto tiempo dispongo para...? 
+Y Demachek contestó tranquilamente: 
+—Oh, vamos. ¿No le he explicado que no tenemos opción... ni tiempo? Se marcha — consultó su banda horaria de pulsera— dentro de seis horas escasas. 
+El espaciopuerto estaba en las afueras de la ciudad, en un sector casi desierto que, en realidad, se hallaba en el Exterior. Esto quedaba paliado por el hecho de que las taquillas y las salas de espera estaban en la Ciudad y de que el trayecto hasta la nave en sí se realizaba en vehículo a lo largo de un camino cubierto. Por tradición, todos los despegues se efectuaban de noche, de modo que un manto de oscuridad atenuaba aún más el efecto del Exterior. 
+El espaciopuerto no estaba muy concurrido, considerando el carácter populoso de la Tierra. Los terrícolas muy rara vez dejaban el planeta y el tráfico se reducía exclusivamente a la actividad comercial organizada por robots y espaciales. 
+Mientras esperaba que la nave estuviera lista para poder embarcar, Elijah Baley ya se sentía aislado de la Tierra. 
+Bentley se encontraba con él y un triste silencio reinaba entre ambos. Finalmente, Ben dijo: 
+—Imaginé que mamá no querría venir. 
+Baley asintió. 
+—Yo también. Recuerdo cómo se puso cuando fui a Solaria. Esto no es distinto. 
+—¿Has logrado calmarla? 
+—He hecho lo que he podido, Ben. Ella cree que estoy destinado a sufrir un accidente espacial o que me matarán en cuanto llegue a Aurora. 
+—Regresaste de Solaria. 
+—Eso sólo contribuye a aumentar sus temores por arriesgarme una segunda vez. Piensa que se nos acabará la suerte. Sin embargo, saldrá adelante. Tú ayúdala, Ben. Pasa más tiempo con ella y, hagas lo que hagas, no le hables de ir a colonizar un nuevo planeta. Esto es lo que le preocupa realmente, ¿comprendes? Tiene el presentimiento de que te irás un día de éstos. Sabe que ella no podrá marcharse y, por lo tanto, nunca volverá a verte. 
+—Es posible —dijo Ben—. Quizá sea esto lo que ocurra. 
+—Tal vez tú puedas afrontar serenamente esa posibilidad, pero ella no, de modo que no hables de ello mientras estoy fuera. ¿De acuerdo? 
+—De acuerdo... Creo que está un poco inquieta por Gladia. 
+Baley levantó los ojos vivamente. 
+—¿Acaso le has...? 
+—No he dicho una sola palabra. Pero ella también vio aquel maldito drama, ¿sabes?, y no ignora que Gladia está en Aurora. 
+—¿Y qué? Es un planeta muy grande. ¿Crees que Gladia Delmarre estará esperándome en el espaciopuerto? Jehoshaphat, Ben, ¿no sabe tu madre que esa porquería de programa era ficción en un noventa por ciento? 
+Ben cambió de tema con visible esfuerzo. 
+—Es curioso... estar sentado aquí, sin equipaje de ninguna clase. 
+—Pues aún llevo demasiado. Está mi ropa, ¿no? Se librarán de ella en cuanto suba a bordo. Me la quitarán, la someterán a un tratamiento químico, y luego la arrojarán al espacio. Después me darán un guardarropa totalmente nuevo, una vez me hayan fumigado y limpiado y bruñido, por dentro y por fuera. Ya he pasado antes por esto. 
+Volvió a haber un silencio y luego Ben dijo: 
+—Verás, papá... —y se detuvo repentinamente. Lo intentó de nuevo—: Verás, papá... —y tampoco lo logró. Baley le miró fijamente. 
+—¿Qué estás tratando de decir, Ben? 
+—Papá, me siento como un idiota diciendo esto, pero creo que debo hacerlo. Tú no eres el clásico héroe. Ni siquiera yo lo he pensado jamás. Eres un buen hombre y el mejor padre que puede haber, pero no un héroe. 
+Baley gruñó. 
+—Sin embargo —prosiguió Ben—, cuando te paras a pensarlo, fuiste tú quien borró Espacioburgo del mapa; fuiste tú quien puso en marcha este proyecto de colonizar otros mundos. Papá, tú has hecho más por la Tierra que todos los miembros del gobierno juntos. Así pues, ¿por qué no te aprecian más? 
+Baley contestó: 
+—Porque no soy el héroe clásico y porque ese estúpido drama de hiperondas me perjudicó mucho. Ha convertido en enemigos a todos los hombres del departamento, ha inquietado a tu madre y me ha dado una fama que me resulta incómoda. —La luz de su avisador de pulsera centelleó y Baley se levantó—. Ahora debo irme, Ben. 
+—Lo sé. Pero lo que quiero decir, papá, es que yo te estoy agradecido. Y cuando esta vez regreses, todo el mundo te agradecerá lo que vas a hacer por nosotros. 
+Baley notó que se enternecía. Asintió rápidamente, puso una mano en el hombro de su hijo, y murmuró: 
+—Gracias. Cuídate, y cuida de tu madre, mientras yo esté fuera. 
+Se alejó, sin mirar atrás. Había dicho a Ben que iba a Aurora para tratar del proyecto de colonización. Si fuera así, podría regresar triunfante. Sin embargo... 
+Pensó: «Regresaré desprestigiado... si es que regreso.» 
+
+
+
+

@@ -1,0 +1,356 @@
+<style type="text/css">
+<!-- @charset "utf-8"; 
+
+/* Definimos un ancho fluido y una altura fija para nuestro menu */ 
+header {
+	/*background: #22282e;
+	height: 60px;*/
+	position: relative;
+	width: 100%;
+}
+
+/* El logo sera flotado a la izquierda */
+#logo {
+	background: url(logo.jpg) no-repeat 0 0;
+	display: block;
+	float: left;
+	margin: 6px 10px 0;
+	width: 82px;
+	height: 35px;
+	text-indent: -9999px
+}
+
+/* Nuestro nav con id #menu lo flotaremos a la derecha*/
+#menu {
+	clear: initial;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	background-color: #FFE4B5;
+	/*position: absolute;*/
+	height: 35px;
+	margin: 0;
+	width: 100%;
+	/*padding-bottom: 10px;
+	float: right;*/
+}
+
+/* Quitamos estilos por defecto de el tag UL */
+#menu ul {
+	margin: 0;
+	/*padding: 0;*/
+	list-style: none;
+	font-size: 14px;
+	float: right;
+}
+
+/* Centramos y ponemos los textos en mayuscula */
+#menu li {
+	display: inline;
+	/**float: left;*/
+	text-transform: uppercase;
+	text-align: center;
+}
+
+/* Damos estilo a nuestros enlaces */
+#menu li a {
+
+	font-family: Arial;
+	font-size: 10px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+/**
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	height: 60px;            
+	line-height: 60px;*/
+}
+
+#menu li a:hover {
+	background-color: #FFDAB9;
+	margin-top: 2px;
+	padding-bottom: 11px;
+	color: #000000;
+}
+
+#container #menu .Estilo3 p {
+	/*margin: 15px;*/
+	font-size: 9px;
+	line-height: normal;
+}
+
+body {
+	background-color: #FFFFCC;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+
+#cuerpo {
+	margin: 0 auto;
+	margin-bottom: 115px;
+}
+
+td, th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #330000;
+}
+
+a {
+	color: #330000;
+}
+
+form {
+	background-color: #CCCC99;
+}
+
+.title {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	line-height: 30px;
+	background-color: #990000;
+	color: #FFFF66;
+}
+
+.subtitle {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #660000;
+	font-style: oblique;
+}
+
+.header {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	background-color: #990000;
+	color: #FFFF66;
+}
+
+.nav {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #CCCC66;
+}
+
+.navLink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #DEDECA;
+}
+
+a:hover {
+	color: #DEDECA;
+	background-color: #330000;
+}
+
+.sidebar {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	line-height: 18px;
+	padding: 3px;
+	background-color: #FFFF99;
+}
+
+.sidebarHeader {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFF99;
+	background-color: #999933;
+	font-weight: bold;
+}
+
+.sidebarFooter {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	line-height: 18px;
+	background-color: #FFFF99;
+	color: #990000;
+}
+
+#footer {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #333333;
+	background-color: #FFFF99;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	/*margin-top: -150px; /* altura en px del footer con valor negativo */
+	margin: 0 auto;
+	width: 100%;
+	opacity: 0.7;
+	text-align: center;
+	clear: both;
+}
+
+.legal {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #333333;
+}
+
+.box1 {
+	border-width: 2px;
+	border-color: #CCCCCC #333333 #333333 #CCCCCC;
+	border-style: dotted;
+}
+
+.promo {
+	font-family: "Times New Roman", Times, serif;
+	color: #000033;
+}
+
+.titlebar {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #336699;
+}
+
+.dingbat {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #CCCC99;
+	color: #660000;
+	font-weight: bolder;
+	font-size: medium;
+}
+
+input.big {
+	width: 100px;
+}
+
+input.small {
+	width: 50px;
+}
+
+
+#tablaCargarBenef {
+	border-collapse: separate;
+	border-spacing: 5px 15px;
+}
+
+#separadorh {
+	width: 100%;
+	height: 10px;
+	margin: 0;
+	padding: 0;
+}
+
+#separador {
+	width: 100%;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+}
+
+#capitulo::first-letter {
+	float: left;
+	color: black;
+	background: white;
+	border: 1px solid #999999;
+	font-size: 80px;
+	line-height: 60px;
+	padding: 2px;
+	font-family: cursive;
+	margin-right: 5px;
+}
+
+#barraDerecha {
+	text-align: right;
+	float: left;
+	margin-right: 0px;
+	margin-top: 0;
+}
+
+/*******************************************************************************************/
+
+/* Estilos #nav-mobile y lo ocultamos */
+#nav-mobile {
+	display: none;
+	background: url(inc/nav.png) no-repeat center center;
+	float: right;
+	width: 60px;
+	height: 35px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	opacity: .6;
+}
+
+/* Agregaremos esta clase a #nav-mobile, cuando el menu mobile haya sido desplegado */
+#nav-mobile.nav-active {
+	opacity: 1;
+}
+
+/* Estilos del menu mobile */
+@media only screen and (max-width: 768px) {
+	
+	/* mostramos #nav-mobile */
+	#nav-mobile {
+		display: block;
+	}
+
+	/* Fijamos nuestro nav en 100% ancho y dejamos de flotarlo */
+	#menu {
+		width: 100%;
+		float: none;
+		/*padding-top: 0px;*/
+	}
+
+	/* Convertimos nuestra lista de enlaces en un menú horizontal */
+	#menu ul {
+		/*box-shadow: 0 1px 2px rgba(0, 0, 0, .5);*/
+		max-height: 0;
+		overflow: hidden;
+		background-color: #FFE4B5;
+		padding-top: 35px
+	}
+	
+	/* estilos para los LI del menu */
+	#menu li {
+		background: #33363b;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+
+		/*border-bottom: 1px solid #282b30;*/
+		float: none;
+		display: block;
+	}
+	
+	/* Quitamos el borde del ultimo item del menú */
+	#menu li:last-child {
+		border-bottom: 0;
+	}
+	
+	#menu li a {
+		padding: 15px 0;
+		height: auto;
+		line-height: normal;
+	}
+	
+	#menu li a:hover {
+		background: #FFDAB9
+	}
+
+	/* Agregamos una animación al despligue del menú */
+	#menu ul.open-menu {
+		max-height: 400px;
+		transition: max-height .4s;
+	}
+}
+
+-->
+
+img.fotoAutor{
+height: 200px;
+}
+
+#autor
+{
+text-align: center;
+}
+</style>		

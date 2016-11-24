@@ -1,0 +1,36 @@
+<?PHP
+	/**
+	 * @autor iberlot
+	 * @version 20141106
+	 *
+	 */
+	
+	require_once("Config/includes.php");
+	
+	
+?>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		
+		<title>..:: Text To Speech Directive ::..</title>
+		
+	<script language='javascript' src='js/jquery-2.1.4.js'></script>
+
+    <link href="js/select2-3.5.4/select2.css" rel="stylesheet" />
+    <script src="js/select2-3.5.4/select2.min.js"></script>
+    <script src="js/textReader.jquery.js"></script>
+	</head>
+	<body>
+		hola hola hola hola 
+		<script>
+
+    $.textReader.read("Hello World", "es", function (){
+
+        alert("Speaking complete");
+    });
+</script>
+	</body>
+</html>
